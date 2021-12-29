@@ -1,0 +1,68 @@
+body, ul, li, a {
+    margin: none;
+    padding: none;
+}
+
+
+h1 {
+    color: grey;
+}
+
+nav {
+    background-color: #333333;
+    
+}
+
+a:hover, a:visited, a {
+    color: white;
+    text-decoration: none;
+}
+
+li a {
+    display: inline-block;
+    padding: 8px 16px;
+    
+}
+
+.navli {    
+    display: inline-block;
+    
+    text-align: center;
+    font-size: 1.5em;
+    
+}
+
+main {
+    margin-top: 60px;
+}
+
+.navli:hover {
+    background-color: black;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+.active:hover {
+    background-color: #3be0a4;
+}
+
+p {
+    
+    font-size: 3em;
+    width: 75%;
+    background-color: lightgray;
+    border: solid, 1px, grey;
+    border-radius: 5px;
+    margin: auto;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+   /*  width: 200px; */
+    margin: 0px;
+    padding: 0px;  
+}
+
