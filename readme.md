@@ -3,6 +3,8 @@
 L'objectif est de s'entraîner avec les fonctions de bases PHP et les imbriquer avec du HTML. Je vous fourni les fichiers de départ index.php et contact.php ainsi que la feuille de style.css
 Tous ces éléments sont dans le même répertoire afin de faciliter la suite de l'exercice.
 Vous avez également la correction du soutien dans le repertoire solution.
+![Visuel du support de cours](imageobjectif.png)
+
 
 ## Notions vues dans l'exercice
 
