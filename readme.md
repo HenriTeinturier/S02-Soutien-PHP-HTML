@@ -58,4 +58,4 @@ Ensuite mettez à jour votre tableau $barre_de_navigation et normalement votre b
 
 ## Mot de la fin
 
-J'espère que je n'ai rien oublié et que c'est un peu près clair. Je n'avais pas prévu de partager l'exercice sur GitHub mais comme on me l'a demandé le voici. Et surtout cela me permettra de m'entraîner à créer un dépot github et le partager :)
+J'espère que je n'ai rien oublié et que c'est un peu près clair. Je n'avais pas prévu de partager l'exercice sur GitHub mais comme on me l'a demandé le voici. 
